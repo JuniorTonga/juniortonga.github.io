@@ -1,4 +1,5 @@
 googleAnalytics = 'G-L16RE4HTC6'
+copyright = "© 2023 by Junior Tonga. <a href='/privacy'>Privacy policy</a>."
 baseURL = 'https://juniortonga.github.io/'
 languageCode = 'en-us'
 title = 'Tonga Junior Cedric'
