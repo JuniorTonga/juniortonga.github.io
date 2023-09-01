@@ -1,0 +1,54 @@
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.87.0"
+[menu]
+[[menu.main]]
+  name = 'About'
+  URL = '/about/'
+  weight = -120
+[[menu.main]]
+  name = 'Work & Research Experiences'
+  url = '/publications/'
+  weight = -110
+[[menu.main]]
+  name = 'Projects'
+  url = '/projects/'
+  weight = -100
+[[menu.main]]
+  name = 'Scholarships'
+  url = '/awards/'
+  weight = -90
+[params]
+  [params.navigation]
+    show_navigation = true
+  [params.footer]
+      show_footer = true
+  [params.typography]
+    title_font = "Bree Serif"
+    body_font = "Source Sans Pro"
+  [params.colors]
+    theme_color = "#333333"
+    background_color = "#fcfbf9"
+    text_color = "#333333"
+    link_color = "#60c17d"
+  [params.head]
+      author = "Tonga junior cedric "
+      description = "Hi, I'm Tonga Junior Cedric, and this is my website!"
+      keywords = ["machine learning", "NLP", "deep learning", "reinforcement learning"]
+  [params.social]
+      [params.social.email]
+          name = "E-Mail"
+          class = "fas fa-envelope"
+          url = "mailto:juniortonga2022@gmail.com"
+          weight = 1
+      [params.social.github]
+          name = "GitHub"
+          class = "fab fa-github"
+          url = "https://github.com/JuniorTonga"
+          weight = 2
+      [params.social.linkedin]
+          name = "Linkedin"
+          class = "fab fa-linkedin"
+          url = "https://www.linkedin.com/in/junior-cedric-tonga-130b2521a/"
+          weight = 3

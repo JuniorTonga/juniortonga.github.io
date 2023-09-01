@@ -1,0 +1,7 @@
+googleAnalytics = 'G-L16RE4HTC6'
+baseURL = 'https://juniortonga.github.io/'
+languageCode = 'en-us'
+title = 'Tonga Junior Cedric'
+theme = 'barks'
+enableRobotsTXT = true
+canonifyURLs = true
