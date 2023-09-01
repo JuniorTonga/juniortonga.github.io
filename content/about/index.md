@@ -15,7 +15,7 @@ Bachelor in computer science
 1. **Campus director HULT PRIZE at Faculty of sciences of Gabes, Tunisia(September 2020 – November 2020)**
     
     + constitution of my organization team with me as coordinator of the organization team of the competition.and 
-    + organization ofthe competition on my campus.
+    + organization of the competition on my campus.
     + Manage this team, Conduct information meetings about the competition, recruit the different participating teams
 
     **Skills** : Team spirit, communication, leadership, management, organisation
