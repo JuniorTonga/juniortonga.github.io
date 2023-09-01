@@ -2,7 +2,7 @@
 **Paris-Saclay University - Ecole Normale Supérieure de Paris-Saclay (France)** (September 2023-September 2024)  
 Msc. in Mathematics, Vision & Learning (known as MVA)
 
-**Paris-Saclay University- Faculty of science (France)**  (September 2022- june 2023) 
+**Paris-Saclay University- Faculty of science (France)** (September 2022- june 2023) 
 Msc. artificial intelligence
 
 **Gabes University - Faculty of science of Gabes (Tunisia)** (September 2019- june 2022)  
