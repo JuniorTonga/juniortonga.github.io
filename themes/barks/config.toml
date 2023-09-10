@@ -12,7 +12,7 @@
   url = '/publications/'
   weight = -110
 [[menu.main]]
-  name = 'Projects'
+  name = 'Relevant projects'
   url = '/projects/'
   weight = -100
 [[menu.main]]
