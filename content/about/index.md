@@ -23,7 +23,7 @@ Bachelor in computer science
 
 # Technical Skills
 
-**Languages** : French(native), english(B1 TOEIC(665/990))
+**Languages** : French(native), english(B1 TOEIC(665/990)) 
 **Programming Languages** : Python, Java, C/C++, SQL, C\#,  HTML5, CSS3, PHP, Boostrap5.  
 **Libraries** : PyTorch,  Numpy, Pandas, Scikit-learn, Matplotlib, Seaborn, NLTK, SentenceTransformers   
 **Developer Tools \& framework** : Git, Docker, VS Code, Spark, hadoop
