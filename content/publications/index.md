@@ -4,7 +4,7 @@
 - Study of the robustness of monolingual and multilingual language models to certain linguistic structures with a view to taking account of the cultural diversity of people in distress in suicide prevention tools.
 - Training of the XLM-R, distiluse-base and CamemBERT-base models on a set of French sentence pairs using the simple contrastive learning of sentence embeddings(SimCSE) method.
 - Our results indicate that pre-trained multilingual sentence embedding models perform well, but that after training, monolingual models perform better than multilingual models.
-- we are preparing an article on it and we are already going to submit what we have to the 2024 [ACFAS](https://www.acfas.ca/evenements/congres/appel-propositions) Congress which will take place in OTTAWA, canada.
+- We have submitted our work to the 2024 [ACFAS](https://www.acfas.ca/evenements/congres/appel-propositions) Congress which will take place in OTTAWA, canada and it is currently being evaluated. 
 
 **LISN(Laboratoire Interdisciplinaire des Sciences du Numérique)**, Gif-sur-Yvette, France (December 2022-april 2023)
 
