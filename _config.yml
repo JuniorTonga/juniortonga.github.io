@@ -5,7 +5,7 @@
 title: Junior Cedric TONGA # the website title (if blank, full name will be used instead)
 first_name: Junior Cedric
 middle_name: 
-last_name: TONGA
+last_name: Tonga
 contact_note:
 description: 
 footer_text: >
@@ -267,7 +267,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Tonga]
+  last_name: [ Tonga]
   first_name: [Junior Cedric]
 
   style: apa
