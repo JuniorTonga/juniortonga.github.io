@@ -268,7 +268,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 
 scholar:
   last_name: [TONGA]
-  first_name: [TJunior Cedric]
+  first_name: [Junior Cedric]
 
   style: apa
   locale: en
