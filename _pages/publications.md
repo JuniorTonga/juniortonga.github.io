@@ -4,7 +4,7 @@ permalink: /publications/
 title: Publications
 description:
 nav: true
-nav_order: 2
+nav_order: 1
 ---
 This page provides a curated list of my academic publications. It may include journal articles, conference papers, workshop papers, and preprint.
 
