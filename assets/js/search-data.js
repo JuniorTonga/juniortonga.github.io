@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-cv",
+          title: "CV",
+          description: "This page provides an up-to-date version of my CV, including my education, research and work experience, and teaching background. A downloadable PDF version is also available for reference.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/cv/";
+          },
         },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
