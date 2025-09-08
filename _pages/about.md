@@ -24,8 +24,27 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello, I’m Junior Cedric! 👋
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am a **PhD student in Natural Language Processing (NLP)** at [MBZUAI](https://mbzuai.ac.ae) 🇦🇪, supervised by [Dr. Fajri Koto](https://www.fajrikoto.com). My research focuses on a central question:  
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+**How can we make language models accessible to everyone while ensuring high performance?**
+
+To answer this, I explore ways to improve the **multilingual capabilities** of language models, with a particular interest in:
+
+- **Cultural alignment**:  
+  How is cultural knowledge encoded in language models, and how can we adapt these representations to achieve better cultural awareness?
+
+- **Evaluation of language models**:  
+  What are effective ways to assess cultural awareness in LMs? Can we develop standardized benchmarks and metrics to evaluate cultural representation, sensitivity, and other capabilities?
+
+- **Cross-lingual generalization and transfer**:  
+  Can language models achieve strong reasoning performance in low-resource languages, comparable to English? How can we better transfer such capabilities across languages?
+
+Beyond these core directions, I am also interested in the **applications of NLP in education and finance**.  
+
+
+Before starting my PhD, I worked as a **Research Associate at MBZUAI**, under the supervision of Dr. Fajri Koto, focusing on the cultural adaptation of large language models. I hold a **Bachelor’s degree in Computer Science** (First-Class Honours) from Tunisia 🇹🇳 and a **Master’s of Science in Mathematics, Vision & Learning (MVA)** from [ENS Paris-Saclay](https://www.master-mva.com/) (First-Class Honours) 🇫🇷. During my master’s studies, I also completed several research internships in NLP and machine learning.  
+
+
+If you’re interested in collaborating or simply discussing research in NLP, feel free to reach out via [email](mailto:junior.tonga@mbzuai.com). I’d be delighted to connect! 
