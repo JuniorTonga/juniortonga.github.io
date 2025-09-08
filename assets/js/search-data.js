@@ -34,12 +34,10 @@ ninja.data = [{
           section: "News",},{id: "news-excited-to-share-our-new-preprint-at-the-intersection-of-multilingual-nlp-and-education-simulating-llm-to-llm-tutoring-for-multilingual-math-feedback",
           title: 'Excited to share our new preprint at the intersection of multilingual NLP and...',
           description: "",
-          section: "News",},{id: "news-announcement-2",
-          title: 'Announcement_2',
+          section: "News",},{id: "news-i-ll-be-attending-acl-2025-in-vienna-if-you-re-around-and-would-like-to-meet-up-or-chat-about-nlp-feel-free-to-drop-me-a-message",
+          title: 'I’ll be attending ACL 2025 in Vienna 🇦🇹. If you’re around and would...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-i-m-excited-to-share-that-i-ve-started-my-phd-in-natural-language-processing-nlp-at-mbzuai",
+          section: "News",},{id: "news-i-m-excited-to-share-that-i-ve-started-my-phd-in-natural-language-processing-nlp-at-mbzuai",
           title: 'I’m excited to share that I’ve started my PhD in Natural Language Processing...',
           description: "",
           section: "News",},{id: "projects-project-1",
