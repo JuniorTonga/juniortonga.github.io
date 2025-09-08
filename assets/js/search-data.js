@@ -28,16 +28,19 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-excited-to-share-that-our-paper-commonsense-reasoning-in-arab-culture-has-been-accepted-at-acl-2025-main-conference-looking-forward-to-seeing-everyone-in-vienna",
+          title: 'Excited to share that our paper “Commonsense Reasoning in Arab Culture” has been...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-excited-to-share-our-new-preprint-at-the-intersection-of-multilingual-nlp-and-education-simulating-llm-to-llm-tutoring-for-multilingual-math-feedback",
+          title: 'Excited to share our new preprint at the intersection of multilingual NLP and...',
+          description: "",
+          section: "News",},{id: "news-announcement-2",
+          title: 'Announcement_2',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-i-m-excited-to-share-that-i-ve-started-my-phd-in-natural-language-processing-nlp-at-mbzuai",
+          title: 'I’m excited to share that I’ve started my PhD in Natural Language Processing...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
