@@ -1,11 +1,11 @@
 {
-  "Profile": {
+  "basics": {
     "name": "Junior Cedric TONGA",
     "label":"PhD student in Natural Language Processing",
     "current Affiliation": "Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)",
     "email": "junior.tonga@mbzuai.ac.ae"
   },
-  "💼 Research & Work Experiences": [
+  "💼Research & Work Experiences": [
     {
       "name": "Mohamed bin Zayed University of Artificial Intelligence",
       "position": "Research associate",
@@ -39,7 +39,7 @@
       "highlights": []
     }
   ],
-  "🎓 education": [
+  "🎓education": [
     {
       "institution": "Mohamed bin Zayed University of Artificial Intelligence",
       "location": "Abu Dhabi, UAE",
@@ -74,7 +74,7 @@
     }
     
   ],
-  "🏆  awards": [
+  "🏆awards": [
     {
       "title": "Winner of G-Research Paris Quant Challenge 2024",
       "date": "2023-01-03",
