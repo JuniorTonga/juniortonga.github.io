@@ -26,11 +26,11 @@ latest_posts:
 
 Hello, I’m Junior Cedric! 👋
 
-I am a **PhD student in Natural Language Processing (NLP)** at [MBZUAI](https://mbzuai.ac.ae) 🇦🇪, supervised by [Dr. Fajri Koto](https://www.fajrikoto.com). My research focuses on a central question:  
+I am a PhD student in Natural Language Processing (NLP) at [MBZUAI](https://mbzuai.ac.ae) 🇦🇪, supervised by [Dr. Fajri Koto](https://www.fajrikoto.com). My research focuses on a central question:  
 
-**How can we make language models accessible to everyone while ensuring high performance?**
+**How can we make language models accessible to everyone while ensuring high performance ethical and integrity?**
 
-To answer this, I explore ways to improve the **multilingual capabilities** of language models, with a particular interest in:
+To answer this, I explore ways to improve the multilingual capabilities of language models, with a particular interest in:
 
 - **Cultural alignment**:  
   How is cultural knowledge encoded in language models, and how can we adapt these representations to achieve better cultural awareness?
@@ -44,7 +44,7 @@ To answer this, I explore ways to improve the **multilingual capabilities** of l
 Beyond these core directions, I am also interested in the **applications of NLP in education and finance**.  
 
 
-Before starting my PhD, I worked as a **Research Associate at MBZUAI**, under the supervision of Dr. Fajri Koto, focusing on the cultural adaptation of large language models. I hold a **Bachelor’s degree in Computer Science** (First-Class Honours) from Tunisia 🇹🇳 and a **Master’s of Science in Mathematics, Vision & Learning (MVA)** from [ENS Paris-Saclay](https://www.master-mva.com/) (First-Class Honours) 🇫🇷. During my master’s studies, I also completed several research internships in NLP and machine learning.  
+Before starting my PhD, I worked as a Research Associate at MBZUAI, under the supervision of Dr. Fajri Koto, focusing on the cultural adaptation of large language models. I hold a **Bachelor’s degree in Computer Science** (First-Class Honours) from Tunisia 🇹🇳 and a **Master’s of Science in [Mathematics, Vision & Learning (MVA)](https://www.master-mva.com/)** from [ENS Paris-Saclay](https://ens-paris-saclay.fr) (First-Class Honours) 🇫🇷. During my master’s studies, I also completed several research internships in NLP and machine learning.  
 
 
 If you’re interested in collaborating or simply discussing research in NLP, feel free to reach out via [email](mailto:junior.tonga@mbzuai.com). I’d be delighted to connect! 
