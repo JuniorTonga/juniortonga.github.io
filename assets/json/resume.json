@@ -5,7 +5,7 @@
     "current Affiliation": "Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)",
     "email": "junior.tonga@mbzuai.ac.ae"
   },
-  "💼Research & Work Experiences": [
+  "work": [
     {
       "name": "Mohamed bin Zayed University of Artificial Intelligence",
       "position": "Research associate",
@@ -39,7 +39,7 @@
       "highlights": []
     }
   ],
-  "🎓education": [
+  "education": [
     {
       "institution": "Mohamed bin Zayed University of Artificial Intelligence",
       "location": "Abu Dhabi, UAE",
@@ -74,7 +74,7 @@
     }
     
   ],
-  "🏆awards": [
+  "awards": [
     {
       "title": "Winner of G-Research Paris Quant Challenge 2024",
       "date": "2023-01-03",
@@ -143,7 +143,7 @@
       "url": "https://www.hultprize.org",
       "startDate": "2020-09-01",
       "endDate": "2020-11-01",
-      "summary": "constitution of my organization team with me as coordinator of the organization team of the competition.and organization of the competition on my campus. Manage this team, Conduct information meetings about the competition, recruit the different participating teams",
+      "summary": "Constitution of my organization team with me as coordinator of the organization team of the competition.and organization of the competition on my campus. Manage this team, Conduct information meetings about the competition, recruit the different participating teams",
       "highlights": []
     }
   ],
@@ -166,11 +166,10 @@
       "icon": "fa-solid fa-hashtag",
       "keywords": [
         "French", 
-        "English(B2)",
+        "English",
         "Balong"
       ]
     }
   ]
-
 }
 
