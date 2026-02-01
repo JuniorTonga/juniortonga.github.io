@@ -48,3 +48,7 @@ Before starting my PhD, I worked as a Research Associate at MBZUAI, under the su
 
 
 If you’re interested in collaborating or simply discussing research in NLP, feel free to reach out via [email](mailto:junior.tonga@mbzuai.com). I’d be delighted to connect! 
+
+🧠 **Looking for a Research Internship — Summer 2026, Fall 2026, or Later**
+
+I’m actively searching for research internship opportunities and would love to connect.
