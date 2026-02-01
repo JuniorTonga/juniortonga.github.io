@@ -26,7 +26,7 @@ latest_posts:
 
 Hello, I’m Junior Cedric! 👋
 
-I am a PhD student in Natural Language Processing (NLP) at [MBZUAI](https://mbzuai.ac.ae) 🇦🇪, supervised by [Dr. Fajri Koto](https://www.fajrikoto.com). My research focuses on a central question:  
+I am a PhD student in Natural Language Processing (NLP) at [MBZUAI](https://mbzuai.ac.ae) 🇦🇪, supervised by [Dr. Fajri Koto](https://www.fajrikoto.com) and [Dr. Xiuying Chen](https://iriscxy.github.io). My research focuses on a central question:  
 
 **How can we make language models accessible to everyone while ensuring high performance ethical, integrity and safety?**
 
